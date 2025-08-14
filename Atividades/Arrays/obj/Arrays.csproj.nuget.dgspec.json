@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\arrays\\Arrays.csproj": {}
+    "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\arrays\\Arrays.csproj": {
+    "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\arrays\\Arrays.csproj",
+        "projectPath": "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\arrays\\obj\\",
+        "outputPath": "C:\\Users\\isaia\\Desktop\\Ciencias da Computação\\Fase II\\Estrutura de Dados I\\Atividades\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config"
