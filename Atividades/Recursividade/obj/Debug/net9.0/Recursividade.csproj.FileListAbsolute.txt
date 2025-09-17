@@ -1,0 +1,15 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\refint\Recursividade.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Recursividade\obj\Debug\net9.0\ref\Recursividade.dll

@@ -1,0 +1,15 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\bin\Debug\net9.0\Pilhas.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\bin\Debug\net9.0\Pilhas.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\bin\Debug\net9.0\Pilhas.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\bin\Debug\net9.0\Pilhas.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\bin\Debug\net9.0\Pilhas.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\refint\Pilhas.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\Pilhas.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Pilhas\obj\Debug\net9.0\ref\Pilhas.dll

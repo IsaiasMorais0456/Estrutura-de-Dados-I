@@ -1,0 +1,15 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\bin\Debug\net9.0\Torre de Hanoi.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\bin\Debug\net9.0\Torre de Hanoi.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\bin\Debug\net9.0\Torre de Hanoi.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\bin\Debug\net9.0\Torre de Hanoi.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\bin\Debug\net9.0\Torre de Hanoi.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\refint\Torre de Hanoi.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\Torre de Hanoi.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Torre de Hanoi\obj\Debug\net9.0\ref\Torre de Hanoi.dll
