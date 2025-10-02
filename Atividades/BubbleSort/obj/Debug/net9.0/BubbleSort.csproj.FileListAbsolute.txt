@@ -1,0 +1,15 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\bin\Debug\net9.0\BubbleSort.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\bin\Debug\net9.0\BubbleSort.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\bin\Debug\net9.0\BubbleSort.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\bin\Debug\net9.0\BubbleSort.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll

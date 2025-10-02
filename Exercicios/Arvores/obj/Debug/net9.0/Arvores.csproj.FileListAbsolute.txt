@@ -1,0 +1,15 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\bin\Debug\net9.0\Arvores.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\bin\Debug\net9.0\Arvores.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\bin\Debug\net9.0\Arvores.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\bin\Debug\net9.0\Arvores.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\bin\Debug\net9.0\Arvores.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\refint\Arvores.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\Arvores.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\Arvores\obj\Debug\net9.0\ref\Arvores.dll
