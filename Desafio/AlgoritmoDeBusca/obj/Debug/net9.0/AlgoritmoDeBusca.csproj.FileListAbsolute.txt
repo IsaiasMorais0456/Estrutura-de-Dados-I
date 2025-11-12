@@ -1,0 +1,15 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\bin\Debug\net9.0\AlgoritmoDeBusca.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\bin\Debug\net9.0\AlgoritmoDeBusca.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\bin\Debug\net9.0\AlgoritmoDeBusca.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\bin\Debug\net9.0\AlgoritmoDeBusca.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\bin\Debug\net9.0\AlgoritmoDeBusca.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\refint\AlgoritmoDeBusca.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\AlgoritmoDeBusca.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Desafio\AlgoritmoDeBusca\obj\Debug\net9.0\ref\AlgoritmoDeBusca.dll

@@ -1,0 +1,15 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\bin\Debug\net9.0\QuickSortModel.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\bin\Debug\net9.0\QuickSortModel.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\bin\Debug\net9.0\QuickSortModel.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\bin\Debug\net9.0\QuickSortModel.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\bin\Debug\net9.0\QuickSortModel.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\refint\QuickSortModel.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\QuickSortModel.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\QuickSortModel\obj\Debug\net9.0\ref\QuickSortModel.dll
